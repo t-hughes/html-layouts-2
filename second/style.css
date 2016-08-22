@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-container {
+    background: #808080;
+    height: auto;
+    padding: 30px 40px;
+}
+.header-content {
+    height: 180px;
+    background: #fff;
+    padding: 20px;
+    display: inline-block;
+    font-size: 30px;
+}
+.wrapper {
+    width: 100%;
+    background-color: #FFF;
+}
+.red-button {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 120px;
+    color: #FFF;
+    background: #ff0000;
+    font-size: 20px;
+}
+.blue-button {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 120px;
+    background: #0000ff;
+    color: #FFF;
+    font-size: 20px;
+  }
+
+
+.body-container {
+  background: #FFF;
+
+}
+
+.image-container{
+  margin-top: 10px;
+}
+.image {
+  width: 54%;
+  margin: auto;
+  display: block;
+  padding: 10px;
+}
+.body-text {
+    height: 200px;
+    background: #FFF;
+    display: inline-block;
+    padding: 20px;
+    font-size: 30px;
+}
+.footer {
+    height: 50px;
+    width: 100%;
+    background: #333333;
+    position: relative;
+}
+.apple {
+    font-size: 17px;
+    color: #FFF;
+    position: absolute;
+    right: 100px;
+    top: 17px;
+    font-size: 20px;
+}
+.google {
+    font-size: 17;
+    position: absolute;
+    color: #FFF;
+    right: 30px;
+    top: 17px;
+    font-size: 20px;
+}
